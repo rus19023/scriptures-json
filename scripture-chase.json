@@ -1,0 +1,70 @@
+{    
+    {
+      "volume_title": "New Testament",
+        {        
+          "book_title": "John",
+          "book_short_title": "John",
+          {
+            "keyphrase": "Do God’s will to know His doctrine.",
+            "keywords": ["His will","doctrine","of God"],
+            "topic": "Acquiring Spiritual Knowledge",
+            "chapter_number": 7,
+            "verse_number": 17,
+            "verse_title": "John 7:17",
+            "verse_short_title": "John 7:17",
+            "scripture_text": "If any man will do his will, he shall know of the doctrine, whether it be of God, or whether I speak of myself."
+            },
+        },
+    },   
+    {
+      "volume_title": "Old Testament",
+        {        
+          "book_title": "Genesis",
+          "book_short_title": "Gen.",
+          {
+            "keyphrase": "",
+            "keywords": ["","",""],
+            "topic": "",
+            "chapter_number": ,
+            "verse_number": ,
+            "verse_title": "",
+            "verse_short_title": "",
+            "scripture_text": ""
+            },
+        },
+    },   
+    {
+      "volume_title": "Book of Mormon",
+        {        
+          "book_title": "1 Nephi",
+          "book_short_title": "1 Ne.",
+          {
+            "keyphrase": "",
+            "keywords": ["","",""],
+            "topic": "",
+            "chapter_number": ,
+            "verse_number": ,
+            "verse_title": "",
+            "verse_short_title": "",
+            "scripture_text": ""
+            },
+        },
+    },   
+    {
+      "volume_title": "Doctrine and Covenants/Pearl of Great Price",
+        {        
+          "book_title": "Joseph Smith-History",
+          "book_short_title": "JS-H",
+          {
+            "keyphrase": "",
+            "keywords": ["","",""],
+            "topic": "",
+            "chapter_number": ,
+            "verse_number": ,
+            "verse_title": "",
+            "verse_short_title": "",
+            "scripture_text": ""
+            },
+        },
+    },
+}
