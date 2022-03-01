@@ -4,18 +4,72 @@
         {        
           "book_title": "John",
           "book_short_title": "John",
-          {
-            "keyphrase": "Do God’s will to know His doctrine.",
-            "keywords": ["His will","doctrine","of God"],
-            "topic": "Acquiring Spiritual Knowledge",
-            "chapter_number": 7,
-            "verse_number": 17,
-            "verse_title": "John 7:17",
-            "verse_short_title": "John 7:17",
-            "scripture_text": "If any man will do his will, he shall know of the doctrine, whether it be of God, or whether I speak of myself."
+              {
+                "keyphrase": "Do God’s will to know His doctrine.",
+                "keywords": ["His will","doctrine","of God"],
+                "topic": "Acquiring Spiritual Knowledge",
+                "context": "",
+                "application": "",
+                "chapter_number": 7,
+                "verse_number": 17,
+                "verse_title": "John 7:17",
+                "verse_short_title": "John 7:17",
+                "scripture_text": "If any man will do his will, he shall know of the doctrine, whether it be of God, or whether I speak of myself."
+               },
+              {
+                "keyphrase": "",
+                "keywords": ["","",""],
+                "topic": "",
+                "context": "",
+                "application": "",
+                "chapter_number": ,
+                "verse_number": ,
+                "verse_title": "",
+                "verse_short_title": "",
+                "scripture_text": ""
+               },
+         {        
+          "book_title": "Matthew",
+          "book_short_title": "Matt",
+              {
+                "keyphrase": "",
+                "keywords": ["","",""],
+                "topic": "",
+                "context": "",
+                "application": "",
+                "chapter_number": ,
+                "verse_number": ,
+                "verse_title": "",
+                "verse_short_title": "",
+                "scripture_text": ""
+               },
+           },
+              {
+                "keyphrase": "",
+                "keywords": [],
+                "topic": "",
+                "context": "",
+                "application": "",
+                "chapter_number": ,
+                "verse_number": ,
+                "verse_title": "",
+                "verse_short_title": "",
+                "scripture_text": ""
+               },
+              {
+                "keyphrase": "",
+                "keywords": ["","",""],
+                "topic": "",
+                "context": "",
+                "application": "",
+                "chapter_number": ,
+                "verse_number": ,
+                "verse_title": "",
+                "verse_short_title": "",
+                "scripture_text": ""
+               },
             },
-        },
-    },   
+        },   
     {
       "volume_title": "Old Testament",
         {        
@@ -47,7 +101,19 @@
             "verse_title": "",
             "verse_short_title": "",
             "scripture_text": ""
-            },
+           },
+          {
+            "keyphrase": "",
+            "keywords": ["","",""],
+            "topic": "",
+            "context": "",
+            "application": "",
+            "chapter_number": ,
+            "verse_number": ,
+            "verse_title": "",
+            "verse_short_title": "",
+            "scripture_text": ""
+           },
         },
     },   
     {
